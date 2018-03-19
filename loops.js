@@ -1,3 +1,3 @@
-function forLoop (var i = 0; i < 26; i++) {
+function forLoop (for (let i = 0; i < 25; i++) {
   
 }
